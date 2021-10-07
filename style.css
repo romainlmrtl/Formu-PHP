@@ -1,0 +1,14 @@
+article {
+    margin-top: 350px;
+    background-color: aqua;
+}
+
+input {
+    padding: 20px;
+    display: block;
+    justify-content: center;
+}
+
+form {
+    text-align: center;
+}
